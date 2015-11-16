@@ -8,7 +8,7 @@ Package.describe({
 
 Npm.depends({
   'exposify': '0.4.3',
-  'react-document-title': '2.0.0'
+  'react-document-title': '2.0.1'
 });
 
 Package.onUse(function(api) {
